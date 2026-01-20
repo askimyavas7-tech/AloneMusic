@@ -102,9 +102,9 @@ TELEGRAM_AUDIO_URL = "https://files.catbox.moe/c4cqae.png"
 TELEGRAM_VIDEO_URL = "https://files.catbox.moe/c4cqae.png"
 STREAM_IMG_URL = "https://files.catbox.moe/c4cqae.png"
 SOUNCLOUD_IMG_URL = "https://files.catbox.moe/c4cqae.png"
-YOUTUBE_IMG_URL = "https://files.catbox.moe/c4cqae.png
-SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/c4cqae.png
-SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/c4cqae.png
+YOUTUBE_IMG_URL = "https://files.catbox.moe/c4cqae.png"
+SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/c4cqae.png"
+SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/c4cqae.png"
 SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/c4cqae.png"
 
 
